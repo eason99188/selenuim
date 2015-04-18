@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27901" started-at="2015-04-18T13:16:32Z" finished-at="2015-04-18T13:17:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27901" started-at="2015-04-18T13:16:32Z" finished-at="2015-04-18T13:17:00Z">
+      <class name="test.HelloworldWebdriverTestNG">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:test.HelloworldWebdriverTestNG@7a52f2a2]" name="testOne" duration-ms="26034" started-at="2015-04-18T21:16:32Z" finished-at="2015-04-18T21:16:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.HelloworldWebdriverTestNG@7a52f2a2]" name="tearDown" is-config="true" duration-ms="1842" started-at="2015-04-18T21:16:58Z" finished-at="2015-04-18T21:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HelloworldWebdriverTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

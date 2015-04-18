@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="seleniumcn.cn.demo">
+	
+	<test name="test_seleniumcn" >
+		<classes>
+			<class name="test.HelloworldWebdriverTestNG"/>
+			<class name="test.HelloworldWebdriverTestNG_Fail"/>				
+		</classes>
+	</test>
+  
+</suite>

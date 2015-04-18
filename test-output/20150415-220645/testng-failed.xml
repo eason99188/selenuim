@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [seleniumcn.cn.demo]">
+  <test name="test_seleniumcn(failed)">
+    <classes>
+      <class name="test.HelloworldWebdriverTestNG">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- test.HelloworldWebdriverTestNG -->
+      <class name="test.HelloworldWebdriverTestNG_Fail">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testOne_Fail"/>
+        </methods>
+      </class> <!-- test.HelloworldWebdriverTestNG_Fail -->
+    </classes>
+  </test> <!-- test_seleniumcn(failed) -->
+</suite> <!-- Failed suite [seleniumcn.cn.demo] -->
